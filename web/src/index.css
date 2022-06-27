@@ -1,0 +1,15 @@
+.error{
+  color: red;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+}
+
+.sendButton{
+  border-radius: 8px;
+  border-width: 1px;
+  background-color: beige;
+  margin-top: 10px;
+}
